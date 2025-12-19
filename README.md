@@ -3,17 +3,15 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b> 🛡 Blue Team/SOC</b>
-  - [Threat Hunting & Incident Response](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Vulnerability Assessment & Risk](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Defensive Fundamentals](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Threat Hunting & Incident Response](https://github.com/joshmadakour1/Algorithms-Practice)
+  - [Vulnerability Assessment & Risk](https://github.com/joshmadakour1/Algorithms-Practice)
+  - [Defensive Fundamentals](https://github.com/joshmadakour1/Algorithms-Practice)
 - <b> ⚔ Offensive/Pentesting </b>
-  - [Recon & Enumeration](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
-  - [Web & Network Attacks](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Wireless Security Assessment](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Malware & Keylogging](https://github.com/joshmadakor1/AD_PS)
-  - [Network Attack Techniques](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Pentest Reporting & Engagement](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Recon & Enumeration](https://github.com/joshmadakoru1/4chan-Image-Analysis-Middleware-C964) <b>
+  - [Web & Network Attacks](https://github.com/joshmadakuor1/Sentinel-Lab)
+  - [Wireless Security Assessment](https://github.com/josuhmadakor1/Jwipe.PowerShell)
+  - [Malware & Keylogging](https://github.com/joshmadakuor1/AD_PS)
+  - [Network Attack Techniques](https://github.com/joshumadakor1/PowerShell-Integrity-FIM)
 
 <h2> 📃 Certifications </h2>
 
