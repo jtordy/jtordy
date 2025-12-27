@@ -4,7 +4,7 @@
 
 - <b> 🛡 Blue Team/SOC</b>
   - [Threat Hunting & Incident Response](https://github.com/jtordy/threat-hunting-and-incident-response)
-  - [Vulnerability Assessment & Risk](https://github.com/joshmadakour1/Algorithms-Practice)
+  - [Vulnerability Assessment & Risk](https://github.com/jtordy/vulnerability-assessment-and-risk)
   - [Defensive Fundamentals](https://github.com/joshmadakour1/Algorithms-Practice)
 - <b> ⚔ Offensive/Pentesting </b>
   - [Recon & Enumeration](https://github.com/joshmadakoru1/4chan-Image-Analysis-Middleware-C964)
