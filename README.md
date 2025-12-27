@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b> 🛡 Blue Team/SOC</b>
-  - [Threat Hunting & Incident Response](https://github.com/joshmadakour1/Algorithms-Practice)
+  - [Threat Hunting & Incident Response](https://github.com/jtordy/threat-hunting-and-incident-response)
   - [Vulnerability Assessment & Risk](https://github.com/joshmadakour1/Algorithms-Practice)
   - [Defensive Fundamentals](https://github.com/joshmadakour1/Algorithms-Practice)
 - <b> ⚔ Offensive/Pentesting </b>
