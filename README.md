@@ -30,6 +30,4 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/joetordy
-[youtube]: https://www.youtube.com/c/joshmuadakor
-[instagram]: https://www.instagram.com/joushmadakor/
 [linkedin]: https://linkedin.com/in/joe-tordy-14a49b34
