@@ -6,7 +6,7 @@
   - [Threat Hunting & Incident Response](https://github.com/jtordy/threat-hunting-and-incident-response)
   - [Vulnerability Assessment & Risk](https://github.com/jtordy/vulnerability-assessment-and-risk)
   - [Defensive Fundamentals](https://github.com/jtordy/defensive-security-fundamentals/)
-  - 
+    
 - <b> ⚔ Offensive/Pentesting </b>
   - [Recon & Enumeration](https://github.com/jtordy/recon-and-enumeration)
   - [Web & Network Attacks](https://github.com/joshmadakuor1/Sentinel-Lab)
