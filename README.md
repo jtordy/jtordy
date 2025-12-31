@@ -7,7 +7,7 @@
   - [Vulnerability Assessment & Risk](https://github.com/jtordy/vulnerability-assessment-and-risk)
   - [Defensive Fundamentals](https://github.com/jtordy/defensive-security-fundamentals/)
 - <b> ⚔ Offensive/Pentesting </b>
-  - [Recon & Enumeration](https://github.com/joshmadakoru1/4chan-Image-Analysis-Middleware-C964)
+  - [Recon & Enumeration](https://github.com/jtordy/recon-and-enumeration)
   - [Web & Network Attacks](https://github.com/joshmadakuor1/Sentinel-Lab)
   - [Wireless Security Assessment](https://github.com/josuhmadakor1/Jwipe.PowerShell)
   - [Malware & Keylogging](https://github.com/joshmadakuor1/AD_PS)
