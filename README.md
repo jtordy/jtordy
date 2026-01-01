@@ -9,7 +9,6 @@
     
 - <b> ⚔ Offensive/Pentesting </b>
   - [Recon & Enumeration](https://github.com/jtordy/recon-and-enumeration)
-  - [Web & Network Attacks](https://github.com/joshmadakuor1/Sentinel-Lab)
   - [Report Writing](https://github.com/jtordy/report-writing-and-documentation)
 
 <h2> 📃 Certifications </h2>
