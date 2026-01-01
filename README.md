@@ -10,9 +10,7 @@
 - <b> ⚔ Offensive/Pentesting </b>
   - [Recon & Enumeration](https://github.com/jtordy/recon-and-enumeration)
   - [Web & Network Attacks](https://github.com/joshmadakuor1/Sentinel-Lab)
-  - [Wireless Security Assessment](https://github.com/josuhmadakor1/Jwipe.PowerShell)
-  - [Malware & Keylogging](https://github.com/joshmadakuor1/AD_PS)
-  - [Network Attack Techniques](https://github.com/joshumadakor1/PowerShell-Integrity-FIM)
+  - [Report Writing](https://github.com/josuhmadakor1/Jwipe.PowerShell)
 
 <h2> 📃 Certifications </h2>
 
