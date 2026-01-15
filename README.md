@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b> 🛡 Blue Team/SOC</b>
+  - [AWS GuardDuty SOAR Incident Response](https://github.com/jtordy/aws-guardduty-soar-automation)
   - [Threat Hunting & Incident Response](https://github.com/jtordy/threat-hunting-and-incident-response)
   - [Vulnerability Assessment & Risk](https://github.com/jtordy/vulnerability-assessment-and-risk)
   - [Defensive Fundamentals](https://github.com/jtordy/defensive-security-fundamentals/)
